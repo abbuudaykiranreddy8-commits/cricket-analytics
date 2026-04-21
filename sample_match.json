@@ -1,0 +1,58 @@
+{
+  "meta": {"created": "2026-04-21", "data_version": "1.0", "revision": 1},
+  "info": {
+    "balls_per_over": 6,
+    "city": "Mumbai",
+    "dates": ["2026-04-20"],
+    "event": {"name": "Indian Premier League"},
+    "gender": "male",
+    "match_type": "T20",
+    "players": {
+      "Royal Challengers Bangalore": ["Virat Kohli", "Faf du Plessis", "Mohammed Siraj"],
+      "Mumbai Indians": ["Jasprit Bumrah", "Rohit Sharma", "Suryakumar Yadav"]
+    },
+    "registry": {
+      "people": {
+        "Virat Kohli": "vk-1",
+        "Faf du Plessis": "fdp-1",
+        "Mohammed Siraj": "ms-1",
+        "Jasprit Bumrah": "jb-1",
+        "Rohit Sharma": "rs-1",
+        "Suryakumar Yadav": "sky-1"
+      }
+    },
+    "season": "2026",
+    "teams": ["Royal Challengers Bangalore", "Mumbai Indians"],
+    "toss": {"winner": "Mumbai Indians", "decision": "field"},
+    "venue": "Wankhede Stadium",
+    "outcome": {"winner": "Royal Challengers Bangalore", "by": {"runs": 12}}
+  },
+  "innings": [
+    {
+      "team": "Royal Challengers Bangalore",
+      "overs": [
+        {"over": 0, "deliveries": [
+          {"batter": "Virat Kohli", "bowler": "Jasprit Bumrah", "non_striker": "Faf du Plessis", "runs": {"batter": 0, "extras": 0, "total": 0}},
+          {"batter": "Virat Kohli", "bowler": "Jasprit Bumrah", "non_striker": "Faf du Plessis", "runs": {"batter": 4, "extras": 0, "total": 4}},
+          {"batter": "Virat Kohli", "bowler": "Jasprit Bumrah", "non_striker": "Faf du Plessis", "runs": {"batter": 1, "extras": 0, "total": 1}},
+          {"batter": "Faf du Plessis", "bowler": "Jasprit Bumrah", "non_striker": "Virat Kohli", "runs": {"batter": 0, "extras": 0, "total": 0}, "wickets": [{"player_out": "Faf du Plessis", "kind": "bowled"}]},
+          {"batter": "Mohammed Siraj", "bowler": "Jasprit Bumrah", "non_striker": "Virat Kohli", "runs": {"batter": 1, "extras": 0, "total": 1}},
+          {"batter": "Virat Kohli", "bowler": "Jasprit Bumrah", "non_striker": "Mohammed Siraj", "runs": {"batter": 6, "extras": 0, "total": 6}}
+        ]}
+      ]
+    },
+    {
+      "team": "Mumbai Indians",
+      "overs": [
+        {"over": 0, "deliveries": [
+          {"batter": "Rohit Sharma", "bowler": "Mohammed Siraj", "non_striker": "Suryakumar Yadav", "runs": {"batter": 1, "extras": 0, "total": 1}},
+          {"batter": "Suryakumar Yadav", "bowler": "Mohammed Siraj", "non_striker": "Rohit Sharma", "runs": {"batter": 4, "extras": 0, "total": 4}},
+          {"batter": "Suryakumar Yadav", "bowler": "Mohammed Siraj", "non_striker": "Rohit Sharma", "runs": {"batter": 0, "extras": 0, "total": 0}, "wickets": [{"player_out": "Suryakumar Yadav", "kind": "caught"}]},
+          {"batter": "Rohit Sharma", "bowler": "Mohammed Siraj", "non_striker": "Jasprit Bumrah", "runs": {"batter": 2, "extras": 0, "total": 2}},
+          {"batter": "Rohit Sharma", "bowler": "Mohammed Siraj", "non_striker": "Jasprit Bumrah", "runs": {"batter": 0, "extras": 0, "total": 0}},
+          {"batter": "Rohit Sharma", "bowler": "Mohammed Siraj", "non_striker": "Jasprit Bumrah", "runs": {"batter": 6, "extras": 0, "total": 6}}
+        ]}
+      ]
+    }
+  ]
+}
